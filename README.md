@@ -23,8 +23,8 @@
 </p>
 
 ## 🎯 What I recently worked on/currently working on
-- 🚌 A front-end **Shuttle Booking App** (React + Tailwind)
-- 🍗 An **Online Butchery Website** for Akbari Fish & Poultry (React + Tailwind)
+- 🚌 A front-end **Shuttle Booking App** (React + Tailwind) [view](https://project-phase-2-kappa.vercel.app/)
+- 🍗 An **Online Butchery Website** for Akbari Fish & Poultry (React + Tailwind) [view](https://akbari-fish-poultry.vercel.app/)
 
 ## 🌱 Currently Learning
 - Backend development with Flask and MySQL
