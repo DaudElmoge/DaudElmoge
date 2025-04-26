@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Daud!
 
-<!--
-**DaudElmoge/DaudElmoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a passionate **Software Engineering student** currently leveling up my skills in full-stack development.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- 🌐 Frontend: **HTML | CSS (Tailwind CSS) | JavaScript | React**
+- 🛠️ Backend: (coming soon!) **Python | Flask | SQL (MySQL)**
+- ⚡ Always exploring new technologies and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
+</p>
+
+## 🎯 What I recently worked on/currently working on
+- 🚌 A front-end **Shuttle Booking App** (React + Tailwind)
+- 🍗 An **Online Butchery Website** for Akbari Fish & Poultry (React + Tailwind)
+
+## 🌱 Currently Learning
+- Backend development with Flask and MySQL
+- RESTful APIs and full-stack project structuring
+
+## 📈 GitHub Stats
+![Daud's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaudElmoge&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaudElmoge&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DaudEloge&theme=radical&border_radius=10)](https://git.io/streak-stats)
+
+## 📫 Connect With Me
+- [LinkedIn](www.linkedin.com/in/daud-abdiwahab-13703622a)
+
+⭐ Feel free to check out my pinned projects below!
