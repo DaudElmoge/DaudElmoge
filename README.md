@@ -33,9 +33,9 @@
 ## 📈 GitHub Stats
 ![Daud's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaudElmoge&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaudElmoge&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaudElmoge&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DaudEloge&theme=radical&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DaudElmoge&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/daud-abdiwahab-13703622a)
