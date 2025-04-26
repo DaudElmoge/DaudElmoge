@@ -40,4 +40,4 @@
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/daud-abdiwahab-13703622a)
 
-⭐ Feel free to check out my pinned projects below!
+
