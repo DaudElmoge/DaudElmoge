@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daud! [Portfolio](https://daud-portfolio-nu.vercel.app/)
+# 👋 Hi, I'm Daud!
 
 🎓 I'm a passionate **Software Engineering student** currently leveling up my skills in full-stack development.
 
