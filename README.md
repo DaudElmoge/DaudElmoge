@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Daud!
+[click here to see my portfolio!](https://daud-portfolio-nu.vercel.app/)
 
 🎓 I'm a passionate **Software Engineering student** currently leveling up my skills in full-stack development.
 
