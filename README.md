@@ -27,6 +27,7 @@
 - 👨‍💻 My portfolio built with React + Tailwind [view](https://daud-portfolio-nu.vercel.app/)
 - 🚌 A front-end **Shuttle Booking App** (React + Tailwind) [view](https://project-phase-2-kappa.vercel.app/)
 - 🍗 An **Online Butchery Website** for Akbari Fish & Poultry (React + Tailwind) [view](https://akbari-fish-poultry.vercel.app/)
+- 🌱 Irrigation-calculator (React + Tailwind) [view](https://irrigation-calculator-chi.vercel.app/)
 
 ## 🌱 Currently Learning
 - Backend development with Flask and MySQL
