@@ -41,6 +41,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=DaudElmoge&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
 ## 📫 Connect With Me
-- [LinkedIn](www.linkedin.com/in/daud-abdiwahab-13703622a)
+- [LinkedIn](https://www.linkedin.com/in/daud-abdiwahab-elmoge/)
 
 
