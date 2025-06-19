@@ -18,10 +18,12 @@
 
 ## 🗄️ Backend Stack
 <p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40px" />
 </p>
+
 
 ## 🎯 What I recently worked on/currently working on
 - 👨‍💻 My portfolio built with React + Tailwind [view](https://daud-portfolio-nu.vercel.app/)
