@@ -5,7 +5,7 @@
 
 ## 🚀 Tech Stack
 - 🌐 Frontend: **HTML | CSS (Tailwind CSS) | JavaScript | React**
-- 🛠️ Backend: (coming soon!) **Python | Flask | SQL (MySQL)**
+- 🛠️ Backend: (coming soon!) **Python | Flask | FastAPI | SQL (MySQL)**
 - ⚡ Always exploring new technologies and building real-world projects.
 
 ## 🛠️ Languages and Tools
