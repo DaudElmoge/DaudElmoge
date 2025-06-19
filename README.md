@@ -4,8 +4,8 @@
 [click here to see my portfolio!](https://daud-portfolio-nu.vercel.app/)
 
 ## 🚀 Tech Stack
-- 🌐 Frontend: **HTML | CSS (Tailwind CSS) | JavaScript | React**
-- 🛠️ Backend: (coming soon!) **Python | Flask | FastAPI | SQL (MySQL)**
+- 🎨 Frontend: **HTML | CSS (Tailwind CSS) | JavaScript | React**
+- 🗄️ Backend: **Python | Flask | FastAPI | SQL (MySQL)**
 - ⚡ Always exploring new technologies and building real-world projects.
 
 ## 🎨 Frontend Stack
