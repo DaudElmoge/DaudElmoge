@@ -25,7 +25,7 @@
 
 ## 🎯 What I recently worked on/currently working on
 - 👨‍💻 My portfolio built with React + Tailwind [view](https://daud-portfolio-nu.vercel.app/)
-- 🛠️ Garage management system built with React + Tailwind(frontend) and Python + FastApi (backend) [view] (https://garage-app-pi.vercel.app/)
+- 🛠️ Garage management system built with React + Tailwind(frontend) and Python + FastApi (backend) [view](https://garage-app-pi.vercel.app/)
 - 🚌 A front-end **Shuttle Booking App** (React + Tailwind) [view](https://project-phase-2-kappa.vercel.app/)
 - 🍗 An **Online Butchery Website** for Akbari Fish & Poultry (React + Tailwind) [view](https://akbari-fish-poultry.vercel.app/)
 - 🌱 Irrigation-calculator (React + Tailwind) [view](https://irrigation-calculator-chi.vercel.app/)
